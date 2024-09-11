@@ -19,10 +19,12 @@
 
 <div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
 <p><img src="https://github-readme-stats.vercel.app/api?username=wjz-p&show_icons=true&locale=en" alt="wjz-p" /></p>
+</div>
+<div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wjz-p&show_icons=true&locale=en&layout=compact" alt="wjz-p" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wjz-p&" alt="wjz-p" /></p>
-
 </div>
+
 
 
 <div style="display: flex;justify-content: center;  width: 100%">
