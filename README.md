@@ -1,8 +1,9 @@
 <div align='center'>
 
 [![header]][home]
-
 [![moe-counter]][home]
+<h2>点击进入<a href="https://afdian.com/a/WJZ_P" rel="noreferrer">爱发电</a>
+( ≧ω≦ )</h2>
 
 </div>
 <h1 align="center">你好！我是WJZ_P，很高兴认识你！ 👋</h1>
@@ -16,6 +17,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wjz-p" alt="wjz-p" style="width: 100%"/></a> </p>
 
 
+
 <div align='center'>
 <h2 align="left">我目前使用的语言和框架:</h2>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -26,7 +28,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> </a> 
 </p>
-
 
 
 ><div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
