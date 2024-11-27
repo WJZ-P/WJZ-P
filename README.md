@@ -19,7 +19,7 @@
 <div align='center'>
 <h2 align="left">我目前的成就:</h2>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="assests/picture/achievement.png" alt="Stargazer" style="width: 70%" />
+<img src="assests/picture/achievement.png" alt="Stargazer" style="width: 60%" />
 </p>
 
 
