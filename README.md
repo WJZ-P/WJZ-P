@@ -16,7 +16,22 @@
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wjz-p" alt="wjz-p" style="width: 100%"/></a> </p>
 
+<div align='center'>
+<h2 align="left">我目前的成就:</h2>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="assests/picture/achievement.png" alt="Stargazer" style="width: 70%" />
+</p>
 
+
+><div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
+><p><img src="https://github-readme-stats.vercel.app/api?username=wjz-p&card_width=500&show_icons=true&locale=cn" alt="wjz-p" /></p>
+></div>
+>
+><div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
+><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wjz-p&card_width=500&show_icons=true&locale=cn&layout=compact" alt="wjz-p" /></p>
+><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wjz-p&" alt="wjz-p" /></p>
+></div>
+</div>
 
 <div align='center'>
 <h2 align="left">我目前使用的语言和框架:</h2>
