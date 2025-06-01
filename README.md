@@ -14,7 +14,7 @@
 </p>
 <h2 align="center">"风和我道别那一年的夏天，七月的终点。空白信笺与残阳一同坠入山那边的人间。"</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wjz-p" alt="wjz-p" style="width: 100%"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wjz-p&column=5&&margin-w=15&margin-h=15" alt="wjz-p" style="width: 100%"/></a> </p>
 
 <div align='center'>
 <h2 align="left">我目前的成就:</h2>
