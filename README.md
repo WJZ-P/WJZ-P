@@ -61,4 +61,6 @@ Bear loves Kitten! But...
 
 working in a big company now!
 5.25now! Still working hard!
+
+6.5 get My first salary!
 -->
