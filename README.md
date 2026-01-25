@@ -67,4 +67,6 @@ working in a big company now!
 5.25now! Still working hard!
 
 6.5 get My first salary!
+
+2026/1/26：finish my TFT-Hextech-Helper for a few days, will she come back to me?
 -->
