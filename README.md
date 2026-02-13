@@ -14,7 +14,7 @@
 </p>
 <h2 align="center">"风和我道别那一年的夏天，七月的终点。空白信笺与残阳一同坠入山那边的人间。"</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wjz-p&column=5&&margin-w=15&margin-h=15" alt="wjz-p" style="width: 100%"/></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=wjz-p&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=wjz-p&column=5&&margin-w=15&margin-h=15" alt="wjz-p" style="width: 100%"/></a> </p>
 
 <div align='center'>
 <h2 align="left">我目前的成就:</h2>
@@ -41,12 +41,12 @@
 
 
 ><div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
-><p><img src="https://github-readme-stats.vercel.app/api?username=wjz-p&card_width=500&show_icons=true&locale=cn" alt="wjz-p" /></p>
+><p><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wjz-p&card_width=500&show_icons=true&locale=cn" alt="wjz-p" /></p>
 ></div>
 >
 ><div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
-><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wjz-p&card_width=500&show_icons=true&locale=cn&layout=compact" alt="wjz-p" /></p>
-><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wjz-p&" alt="wjz-p" /></p>
+><p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=wjz-p&card_width=500&show_icons=true&locale=cn&layout=compact" alt="wjz-p" /></p>
+><p><img src="https://streak-stats.demolab.com?user=wjz-p&hide_border=true&locale=en" alt="wjz-p" /></p>
 
 ></div>
 </div>
