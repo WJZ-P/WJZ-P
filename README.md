@@ -46,7 +46,7 @@
 >
 ><div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
 ><p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=wjz-p&card_width=500&show_icons=true&locale=cn&layout=compact" alt="wjz-p" /></p>
-><p><img src="https://streak-stats.demolab.com?user=wjz-p&hide_border=true&locale=en" alt="wjz-p" /></p>
+><p><img src="https://streak-stats.demolab.com?user=wjz-p&locale=en" alt="wjz-p" /></p>
 
 ></div>
 </div>
