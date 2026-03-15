@@ -84,6 +84,16 @@
   <a href="https://github.com/WJZ-P/LiteLoaderQQNT-Stick-Emoji"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/LiteLoaderQQNT-Stick-Emoji.svg" alt="LiteLoaderQQNT-Stick-Emoji" width="49%" /></a>
 </p>
 
+<h2 align="left">🗺️ 我的贡献地图:</h2>
+<p align="center">
+  <a href="https://commit-craft.wjz-p.workers.dev/">
+    <img src="https://commit-craft.wjz-p.workers.dev/api/map/wjz-p.svg" alt="CommitCraft Contribution Map" width="100%" />
+  </a>
+</p>
+<p align="center">
+  <em>由 <a href="https://github.com/WJZ-P/CommitCraft">CommitCraft</a> 生成 —— 将你的 GitHub 贡献热力图变成 Minecraft 风格的等距像素世界 🌍</em>
+</p>
+
 <div style="display: flex;justify-content: center;  width: 100%">
 <img align="center" src="assests/picture/github-user-contribution.svg" alt="wjz-p" />
 </div>
