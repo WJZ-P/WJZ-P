@@ -15,13 +15,13 @@
 <h2 align="center">"风和我道别那一年的夏天，七月的终点。空白信笺与残阳一同坠入山那边的人间。"</h2>
 <br/>
 <p align="center">
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/commits.svg" alt="Commits" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/stars.svg" alt="Stars" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/prs.svg" alt="Pull Requests" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/issues.svg" alt="Issues" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/followers.svg" alt="Followers" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/repos.svg" alt="Repos" height="250" /></a>
-  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/merged.svg" alt="Merged PRs" height="250" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/commits.svg" alt="Commits" height="300" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/stars.svg" alt="Stars" height="300" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/prs.svg" alt="Pull Requests" height="300" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/issues.svg" alt="Issues" height="300" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/followers.svg" alt="Followers" height="300" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/repos.svg" alt="Repos" height="300" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/merged.svg" alt="Merged PRs" height="300" /></a>
 </p>
 
 <div align='center'>
