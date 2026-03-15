@@ -14,7 +14,15 @@
 </p>
 <h2 align="center">"风和我道别那一年的夏天，七月的终点。空白信笺与残阳一同坠入山那边的人间。"</h2>
 <br/>
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=wjz-p&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=wjz-p&column=5&&margin-w=15&margin-h=15" alt="wjz-p" style="width: 100%"/></a> </p>
+<p align="center">
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/commits.svg" alt="Commits" height="160" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/stars.svg" alt="Stars" height="160" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/prs.svg" alt="Pull Requests" height="160" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/issues.svg" alt="Issues" height="160" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/followers.svg" alt="Followers" height="160" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/repos.svg" alt="Repos" height="160" /></a>
+  <a href="https://commit-craft.wjz-p.workers.dev/"><img src="https://commit-craft.wjz-p.workers.dev/api/banner/wjz-p/merged.svg" alt="Merged PRs" height="160" /></a>
+</p>
 
 <div align='center'>
 <h2 align="left">我目前的成就:</h2>
@@ -40,6 +48,12 @@
 </p>
 
 
+<p align="center">
+  <a href="https://commit-craft.wjz-p.workers.dev/">
+    <img src="https://commit-craft.wjz-p.workers.dev/api/card/wjz-p.svg?quote=Here%27s%20great%20WJZ_P!" alt="CommitCraft Player Passport" width="400" />
+  </a>
+</p>
+
 ><div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
 ><p><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wjz-p&card_width=500&show_icons=true&locale=cn" alt="wjz-p" /></p>
 ></div>
@@ -51,6 +65,24 @@
 ></div>
 </div>
 
+
+<h2 align="left">📦 我的主要项目:</h2>
+<p align="center">
+  <a href="https://github.com/WJZ-P/CommitCraft"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/CommitCraft.svg" alt="CommitCraft" width="49%" /></a>
+  <a href="https://github.com/WJZ-P/TFT-Hextech-Helper"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/TFT-Hextech-Helper.svg" alt="TFT-Hextech-Helper" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/WJZ-P/LiteLoaderQQNT-Grab-RedBag"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/LiteLoaderQQNT-Grab-RedBag.svg" alt="LiteLoaderQQNT-Grab-RedBag" width="49%" /></a>
+  <a href="https://github.com/WJZ-P/NekoCrypt"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/NekoCrypt.svg" alt="NekoCrypt" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/WJZ-P/LiteLoaderQQNT-Change-Summary"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/LiteLoaderQQNT-Change-Summary.svg" alt="LiteLoaderQQNT-Change-Summary" width="49%" /></a>
+  <a href="https://github.com/WJZ-P/LiteLoaderQQNT-Echo-Message"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/LiteLoaderQQNT-Echo-Message.svg" alt="LiteLoaderQQNT-Echo-Message" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/WJZ-P/LiteLoaderQQNT-Encrypt-Chat"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/LiteLoaderQQNT-Encrypt-Chat.svg" alt="LiteLoaderQQNT-Encrypt-Chat" width="49%" /></a>
+  <a href="https://github.com/WJZ-P/LiteLoaderQQNT-Stick-Emoji"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/LiteLoaderQQNT-Stick-Emoji.svg" alt="LiteLoaderQQNT-Stick-Emoji" width="49%" /></a>
+</p>
 
 <div style="display: flex;justify-content: center;  width: 100%">
 <img align="center" src="assests/picture/github-user-contribution.svg" alt="wjz-p" />
