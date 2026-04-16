@@ -68,6 +68,7 @@
 
 <h2 align="left">📦 我的主要项目:</h2>
 <p align="center">
+  <a href="https://github.com/WJZ-P/sona"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/sona.svg" alt="sona" width="49%" /></a>
   <a href="https://github.com/WJZ-P/gemini-skill"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/gemini-skill.svg" alt="gemini-skill" width="49%" /></a>
   <a href="https://github.com/WJZ-P/CommitCraft"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/CommitCraft.svg" alt="CommitCraft" width="49%" /></a>
   <a href="https://github.com/WJZ-P/TFT-Hextech-Helper"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/TFT-Hextech-Helper.svg" alt="TFT-Hextech-Helper" width="49%" /></a>
