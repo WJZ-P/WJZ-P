@@ -85,6 +85,9 @@
   <a href="https://github.com/WJZ-P/LiteLoaderQQNT-Encrypt-Chat"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/LiteLoaderQQNT-Encrypt-Chat.svg" alt="LiteLoaderQQNT-Encrypt-Chat" width="49%" /></a>
   <a href="https://github.com/WJZ-P/LiteLoaderQQNT-Stick-Emoji"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/LiteLoaderQQNT-Stick-Emoji.svg" alt="LiteLoaderQQNT-Stick-Emoji" width="49%" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/WJZ-P/Better-Health-Indicator"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/WJZ-P/Better-Health-Indicator.svg" alt="Better-Health-Indicator" width="49%" /></a>
+</p>
 
 <h2 align="left">🗺️ 我的贡献地图:</h2>
 <p align="center">
